@@ -1,0 +1,10 @@
+{
+    "production": {
+        "url": "mongodb://root:93984859-5799-4009-8181-8f4c2d71ce77@ds225010.mlab.com:25010/sis_db",
+        "secret": "S3CrEtK3yPr0dUCT1O"
+    },
+    "development": {
+        "url": "mongodb://root:fbe24665-4c77-46c7-9e0a-49d42c5c0e86@ds225010.mlab.com:25010/sis_db_dev",
+        "secret": "S3CrEtK3yDEvLoPMent"
+    }
+}
